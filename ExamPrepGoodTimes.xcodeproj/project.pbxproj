@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0EC4FA741EDBCA6300E9D1C8 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		81E2E2F71ED74D3A00B3D2C8 /* ExamPrepGoodTimes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ExamPrepGoodTimes; sourceTree = BUILT_PRODUCTS_DIR; };
 		81E2E2FA1ED74D3A00B3D2C8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81E2E3021ED74DA100B3D2C8 /* Exam Prep - 2 - Good Times.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Exam Prep - 2 - Good Times.pdf"; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		81E2E2EE1ED74D3A00B3D2C8 = {
 			isa = PBXGroup;
 			children = (
+				0EC4FA741EDBCA6300E9D1C8 /* MyPlayground.playground */,
 				81E2E3011ED74D7E00B3D2C8 /* Documents */,
 				81E2E2F91ED74D3A00B3D2C8 /* ExamPrepGoodTimes */,
 				81E2E2F81ED74D3A00B3D2C8 /* Products */,
@@ -269,6 +271,7 @@
 				81E2E3001ED74D3A00B3D2C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
